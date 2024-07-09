@@ -68,3 +68,10 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+# TOOLS
+gem 'axios_rails', '~> 0.7.0'
+gem 'httparty'
+gem 'redis'
+gem 'concurrent-ruby'
+gem 'active_model_serializers'
